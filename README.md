@@ -16,9 +16,6 @@ This project analyzes coffee shop sales data using Microsoft Excel to uncover tr
 - Analyzed monthly sales trends
 - Compared store-wise performance
 
-## Dashboard Preview
-D:\EXCEL PRACTICE FILES\PROJECTS\dashboard_preview.png
-
 ## Dataset
 The dataset contains transaction-level coffee shop sales data including date, time, product, quantity, and revenue.
 
