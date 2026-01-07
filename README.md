@@ -1,9 +1,9 @@
 Hospital Emergency Room (ER) Dashboard
 
-📌 Project Overview
+📌 Project Overview: 
 This project features an interactive Emergency Room Performance Dashboard designed to monitor and analyze patient flow, operational efficiency, and clinical outcomes. The dashboard provides hospital administrators with real-time insights into wait times, patient satisfaction, and departmental workloads to improve overall healthcare delivery.
 
-📊 Key Insights & Metrics
+📊 Key Insights & Metrics: 
 The dashboard provides a dynamic overview of ER performance, allowing users to filter data by Year (2023–2024) and Month to track the following critical KPIs:
 
 Patient Throughput: Monitors the total volume of patients processed within the selected timeframe to identify peak periods and seasonal trends.
