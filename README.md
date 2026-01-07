@@ -3,17 +3,21 @@ Hospital Emergency Room (ER) Dashboard
 This project features an interactive Emergency Room Performance Dashboard designed to monitor and analyze patient flow, operational efficiency, and clinical outcomes. The dashboard provides hospital administrators with real-time insights into wait times, patient satisfaction, and departmental workloads to improve overall healthcare delivery.
 
 📊 Key Insights & Metrics
-The dashboard tracks several critical KPIs for the month of May 2024:
+The dashboard provides a dynamic overview of ER performance, allowing users to filter data by Year (2023–2024) and Month to track the following critical KPIs:
 
-Total Patients: 519 patients processed.
+Patient Throughput: Monitors the total volume of patients processed within the selected timeframe to identify peak periods and seasonal trends.
 
-Average Wait Time: 35.81 minutes (Targeting a reduction in wait times).
+Wait Time Analysis: Calculates the Average Wait Time (in minutes), serving as a primary benchmark for operational efficiency and resource allocation.
 
-Patient Satisfaction: 5.15/10 (Identifying areas for service improvement).
+Service Level (SLA): Visualizes the percentage of patients attended to On Time vs. Delayed, helping management identify bottlenecks in the triage process.
 
-Service Efficiency: Only 38% of patients were attended to on time, while 62% experienced delays.
+Patient Satisfaction Score: Aggregates feedback scores (on a scale of 1–10) to measure the quality of care and patient experience.
 
-Admission Rate: 51% of patients were admitted to the hospital, while 49% were discharged after ER treatment.
+Clinical Outcomes (Admission Rate): Breaks down the ratio of patients who were Admitted to the hospital versus those Discharged (Not Admitted), providing insight into the severity of cases arriving at the ER.
+
+Referral Patterns: Tracks patient distribution across specialized departments (e.g., Cardiology, Orthopedics, General Practice) to optimize specialist staffing.
+
+Demographic Segmentation: Analyzes patient flow by Age Group and Gender to ensure the ER is equipped for the specific needs of the local population (e.g., pediatric vs. geriatric care)
 
 📈 Visualizations Included
 Patient Demographics: Breakdown by gender (near 50/50 split) and age groups (highest volume in the 0-9 and 20-29 ranges).
@@ -25,9 +29,9 @@ Departmental Referrals: Analysis of which departments (General Practice, Orthope
 Trend Analysis: Sparklines under the main KPIs show daily fluctuations in patient volume and wait times.
 
 🛠️ Tech Stack
-Data Visualization: [e.g., Power BI / Tableau / Excel]
+Data Visualization: [Excel]
 
-Data Cleaning: [e.g., Power Query / Python / SQL]
+Data Cleaning: [Power Query]
 
 Data Source: Simulated Hospital ER Records (2023-2024).
 
